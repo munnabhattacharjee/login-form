@@ -40,18 +40,18 @@ body{
 }
 nav a{
     text-decoration: none;
-    padding-right: 15px;
+    padding-right: 20px;
     font-size: 1.5em;
     color: whitesmoke;
 }
 nav a:hover{
     background-color: steelblue;
     border-radius: 5px;
-    padding: 5px;
+    padding: 10px;
 }
 nav{
     background-color: black;
-    padding: 15px;
+    padding: 20px;
 }
 .login-form input:hover{
     transform: scale(1.1);
